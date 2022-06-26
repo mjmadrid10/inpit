@@ -119,6 +119,11 @@ When SW4 is pressed, LED4 lights up.
 When SW3 is pressed, LED4 lights up.
 When SW3 and SW4 are pressed, LED4 lights up and will stay lit up if SW4 is let go and SW3 is still pressed.
  
+ 
+ 
+ 
+ 
+ 
 Programming Activities
 The statement '__delay_ms(100);' creates a 100ms delay. Try changing one or more of the delay values in the program to 500ms and see what happens.
  
